@@ -1,0 +1,11 @@
+.button {
+    border: solid 1px #921029;
+    transition: background, color ease, ease 0.5s, 0.5s;
+    font-size: 2.5em;
+    background: white;
+}
+
+.button:hover {
+    background: #d0d0d0;
+    cursor: pointer;
+}
